@@ -210,9 +210,25 @@ body {
   align: right;
   position: absolute;
   width: 60px;
-  left: 0%;
-  bottom: -500%;
+  right: 2%;
+  top: -30%;
   font-size: smaller;	
+}
+
+.reveal ul.tL {
+  position: absolute;
+  left: 42%;
+  top: 80%;
+  width:60%;
+  margin-left: 2px;
+  font-size: 70%;
+}
+
+.reveal blockquote.tBQ {
+  position: absolute;
+  left: -4%;
+  width: 40%;
+  font-size: 75%;
 }
 
 
