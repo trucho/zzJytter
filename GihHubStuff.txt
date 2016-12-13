@@ -1,0 +1,7 @@
+To be able to commit things as CitSci2017:
+
+1) Navigate to repository
+2) git remote set-url origin https://CitSci2017@github.com/CitSci2017/Processing.git
+3) git add ......
+4) git commit -m "message here"
+5) git push
