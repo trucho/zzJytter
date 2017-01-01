@@ -1,7 +1,15 @@
-To be able to commit things as CitSci2017:
+To be able to commit things as another user (e.g. CitSci2017):
 
-1) Navigate to repository
-2) git remote set-url origin https://CitSci2017@github.com/CitSci2017/Processing.git
-3) git add ......
-4) git commit -m "message here"
-5) git push
+1) Login to github.com
+2) Create repository
+3) open terminal and navigate to folder that will hold repository
+4) git clone https://github.com/USERNAME/REPOSITORYNAME.git
+5) git remote set-url origin https://USERNAME@github.com/USERNAME/PROJECTNAME.git
+6) git config user.name USERNAME
+7) git config user.email USERNAME@example.com
+8) git add --all
+9) git commit -m "message"
+10) git push origin master
+
+
+git remote set-url origin https://CitSci2017@github.com/CitSci2017/Processing.git
