@@ -1,6 +1,9 @@
 Course title: Citizen Science: Narratives
 January 8th-25th,2017
 
+There are some oddities in the perspective with which we see the world. The fact that we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be, but we have done various things over intellectual history to slowly correct some of our misapprehensions.
+Douglas Adams (Speech, Cambridge, UK, 1998: http://www.biota.org/people/douglasadams/index.html)
+
 Instructor: Juan Angueyra (jangueyra@bard.edu)
 Grading policy: Satisfactory / Unsatisfactory
 - Citizen Science is required
@@ -9,8 +12,36 @@ Grading policy: Satisfactory / Unsatisfactory
 - Extended information can be found in moodle2
 
 Rationale
+"How can we reduce the global burden of infectious disease?"
+To address this question, science?
+Goal is not to turn everybody into a scientist but rather expose you firsthand to experimental science so that you can understand the limits of the scientific method??
+strengths / pitfalls / mental paradigm / theories
 
 Course Aims and outcomes
+Over citizen science you are expected to learn how to:
+1) Read a scientific paper, including interpreting data, identification of key points and understanding limitations
+2) Perform a literature search to corroborate scientific claims
+3) Make an experimental design, perform experiments, collect and analyze data
+4) Present your results in a clear, concise and persuasive manner
+
+
+Format and Procedures:
+
+
+My assumptions
+
+
+Course requirements
+Class attandance and participation
+
+
+
+
+
+
+
+
+
 
 OPTIONAL Title IX wording for your syllabus:
 
