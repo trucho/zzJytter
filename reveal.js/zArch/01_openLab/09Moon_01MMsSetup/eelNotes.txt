@@ -17,19 +17,85 @@ Syllabus:
 15 minutes of code? Processing? Optional
 
 
-Go over homework
 
-TSM:
+
+
+M&Ms
+Play song
+introduce vh
+case-study handout
+think-pair-share: hypothesis (5 mins)
+all hypothesis -> which one should we use as a class
+segway: why should we approach this problem through science instead of another discipline? i.e. how is science different?
+
+What makes science different from other disciplines?
+	Objective: scientific facts are supposed to be independent of the observer (data sharing/presentation)
+	Universal: reproducibility
+
+
+Then go over:
+
+History
+Science = philosophy until XXth century
+Hisotry is long: Greek, Arab, Persian philosphers. Pillar: observation to understand the world
+Francis Bacon (1561 - 1626): foundations of experiemntation
+1900s: technology advances produce a schism
+Vienna Circle: use TSM for philosophy and social science
+Thomas Kuhn (we will review him later)
+
+
+TSM other strengths:	
 	Rational
-	Objective
 	Logical process
 	Scientific thoeires are revised continually
 	Framework to build new knowledge
 	Predictive capabilities
+
+Steps of the TSM:
+	Different arrows -> TSM is a living process that can be muted, changed depending on purpose
+	What is a hypothesis? How is it different from a belief?
+
+Nature of science:
+	There are many ways to do science -> then What is science?
+
 	
 Weaknesses of TSM:
+	Falsifiability: you can never prove that your hypothesis is right
+		Raven paradox
+ Say you are interested in the color of ravens. You have observed a few ravens, they all seem to be black… so you follow TSM, and make the hypothesis that All Ravens are Black. How would you test this hypothesis?
+Observe all ravens? No, that is practically impossible. Instead, let us observe a subset of ravens. All of them are black. Does this mean that your hypothesis is correct? Not necessarily, because there still might be a white raven out there (Albino-ism); or a raven that has not yet been born, or that has already died that was not black.  Therefore, you can never prove that a hypothesis is correct. However, with a single observation of a white raven, your hypothesis is now wrong.
+
+Which is why we have null hypothesis. (Expalin what is a null hypothesis) In some ways, a null hypothesis allows us to overcome this shortcoming of TSM. Experiments are designed to prove that the null hypothesis is wrong, but it does not actually prove that the alternative hypothesis is correct. 
+
+
+
 	Only addresses the how things work, not the why thigs are the way they are
 	Only is concerned wth physical phenomena
 	Scientists are humans and prone to bias
 	Data is intepreted (human error)
 	Science is inductive, so never 100% sure (proof)
+	
+	
+Back to M&Ms
+	GOAL: Design experiment to test the hypothesis then conduct experiment
+	
+	Class discussion: what question should the subject be asked?
+		Best question: was the MnM you just ate brown?
+	Expected results?
+	Statistical significance?
+	
+	Show and critique experimental design
+	Conduct experiment and collect data
+	Analysis of results
+
+
+M&Ms follow-up:
+	NatFC: compromise to accomodate for reality
+	
+	What is food coloring made of? -> petroleum byproduct since 60s
+	David Lee Roth and Eddie grew up before the 60s, so MnMs were different. 
+	Think-Pair-Share: Does this change your conclusions? (write down) What would you do know?
+	Is this similar to checks? Happened to me with responses of different cone types
+	Mention Feingold: ADHD and artFC
+	Ban in EU (since '94) of artFC in candy.
+	Bring out Unreal and new handout (limited resources)
