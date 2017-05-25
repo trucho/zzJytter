@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Avenir';
+  src: url('../lib/font/avenir/Avenir.ttc');
+  src: url('../lib/font/avenir/Avenir.ttc?#iefix') format('embedded-opentype'), url('../lib/font/avenir/AvenirNext.ttc') format('ttc'), url('../lib/font/avenir/AvenirNextCondensed.ttc') format('ttc');
+}

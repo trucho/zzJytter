@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'AvenirLTD';
+  src: url('../lib/font/avenirLTD/AvenirLTStd-Book.otf');
+  src: url('../lib/font/avenirLTD/AvenirLTStd-Book.otf?#iefix') format('embedded-opentype'), url('../lib/font/avenirLTD/AvenirLTStd-Light.otf') format('otf'), url('../lib/font/avenirLTD/AvenirLTStd-Roman.otf') format('otf');
+}
