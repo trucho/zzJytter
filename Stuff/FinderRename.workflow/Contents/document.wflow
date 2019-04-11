@@ -52,16 +52,14 @@
 				<dict>
 					<key>fileNames</key>
 					<array>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW735.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW736.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW737737_4.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW738738_1.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW739739_7.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW746746_3.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW747747_10.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW748748_6.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW749749_5.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190115_nrxn3a_larvae/SeqResults_Natalie/BEW750750_8.ab1</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX296_PREMIX_BFX296_5.ab1</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX297_PREMIX_BFX297_3.ab1</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX298_PREMIX_BFX298_2.ab1</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX299_PREMIX_BFX299_6.ab1</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX300_PREMIX_BFX300_13.ab1</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX301_PREMIX_BFX301_11.ab1</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX302_PREMIX_BFX302_8.ab1</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX303_PREMIX_BFX303_16.ab1</string>
 					</array>
 				</dict>
 				<key>BundleIdentifier</key>
@@ -157,7 +155,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>BEW</string>
+							<string>nrxn3a_homo2_het6_sb</string>
 						</array>
 					</dict>
 					<key>ignoreCase</key>
@@ -183,7 +181,9 @@
 					<key>replaceWithText</key>
 					<dict>
 						<key>tokenizedValue</key>
-						<array/>
+						<array>
+							<string>Galvo2P</string>
+						</array>
 					</dict>
 					<key>singleItemOption</key>
 					<dict/>
@@ -195,7 +195,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>_PREMIX_BEW</string>
+							<string>TwoPhoton</string>
 						</array>
 					</dict>
 					<key>useLeadingZeros</key>
@@ -227,7 +227,7 @@
 					<key>dateToUse</key>
 					<integer>0</integer>
 					<key>defaultName</key>
-					<string>BEW</string>
+					<string>nrxn3a_homo2_het6_sb</string>
 					<key>ignoreCase</key>
 					<false/>
 					<key>includeExtensions</key>
@@ -235,7 +235,7 @@
 					<key>insertionPosition</key>
 					<integer>0</integer>
 					<key>minimumCount</key>
-					<real>3</real>
+					<real>2</real>
 					<key>nameDateSeparator</key>
 					<integer>0</integer>
 					<key>nameSingleItem</key>
@@ -243,21 +243,21 @@
 					<key>numberLocation</key>
 					<integer>0</integer>
 					<key>numberSeparator</key>
-					<integer>4</integer>
+					<integer>3</integer>
 					<key>renameItems</key>
 					<integer>1</integer>
 					<key>renameType</key>
 					<integer>3</integer>
 					<key>replaceWithText</key>
-					<string></string>
+					<string>Galvo2P</string>
 					<key>singleItemOption</key>
 					<integer>0</integer>
 					<key>startingNumber</key>
-					<real>735</real>
+					<real>1</real>
 					<key>textInput</key>
 					<string></string>
 					<key>textToFind</key>
-					<string>_PREMIX_BEW</string>
+					<string>TwoPhoton</string>
 					<key>useLeadingZeros</key>
 					<true/>
 				</dict>
@@ -606,7 +606,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>6BD786F4-51CE-4F68-BBE3-202DE2816729</key>
+		<key>D9B911BC-6CCE-4DB0-8432-F99D53A8CD53</key>
 		<dict>
 			<key>from</key>
 			<string>DB053F0F-6D2C-4FDA-94F8-74FC38CE5FC9 - DB053F0F-6D2C-4FDA-94F8-74FC38CE5FC9</string>
