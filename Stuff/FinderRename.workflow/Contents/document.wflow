@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.39</string>
+	<string>444.42</string>
 	<key>AMApplicationVersion</key>
 	<string>2.9</string>
 	<key>AMDocumentVersion</key>
@@ -52,14 +52,23 @@
 				<dict>
 					<key>fileNames</key>
 					<array>
-						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX296_PREMIX_BFX296_5.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX297_PREMIX_BFX297_3.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX298_PREMIX_BFX298_2.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX299_PREMIX_BFX299_6.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX300_PREMIX_BFX300_13.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX301_PREMIX_BFX301_11.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX302_PREMIX_BFX302_8.ab1</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20190329_nrxn3aLarvae/SeqResults/BFX303_PREMIX_BFX303_16.ab1</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_A-tour-of-contemporary-color-vision-research.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_An-evaluation-of-different-measures-of-color-saturation.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Are-red--yellow--green--and-blue-perceptual-categories-.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Asymmetric-high-contrast-masking-in-S-cone-increment-and-de_2018_Vision-Rese.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Categorizing-natural-color-distributions.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Chromatic-summation-and-receptive-field-properties-of-blue-on-a_2018_Vision-.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Color-encoding-in-biologically-inspired-convolutional-neur_2018_Vision-Resea.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Color-weight-photometry.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Contour-adaptation-reduces-the-spreading-of-edge-induced-_2018_Vision-Resear.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Editorial-Board.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Editorial.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Links-between-global-and-local-shape-perception--coloured-back_2018_Vision-R.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Measurements-of-neuronal-color-tuning--Procedures--pitfalls_2018_Vision-Rese.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Modeling-color-preference-using-color-space-metrics.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_The-role-of-nitric-oxide-in-spectral-information-processing-_2018_Vision-Res.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_The-role-of-temporal-contrast-and-blue-light-in-emmetropi_2018_Vision-Resear.pdf</string>
+						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_The-spatial-structure-of-cone-opponent-receptive-fields-in-_2018_Vision-Rese.pdf</string>
 					</array>
 				</dict>
 				<key>BundleIdentifier</key>
@@ -155,7 +164,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>nrxn3a_homo2_het6_sb</string>
+							<string>eml1v2</string>
 						</array>
 					</dict>
 					<key>ignoreCase</key>
@@ -181,21 +190,24 @@
 					<key>replaceWithText</key>
 					<dict>
 						<key>tokenizedValue</key>
-						<array>
-							<string>Galvo2P</string>
-						</array>
+						<array/>
 					</dict>
 					<key>singleItemOption</key>
 					<dict/>
 					<key>startingNumber</key>
 					<dict/>
 					<key>textInput</key>
-					<dict/>
+					<dict>
+						<key>tokenizedValue</key>
+						<array>
+							<string>-</string>
+						</array>
+					</dict>
 					<key>textToFind</key>
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>TwoPhoton</string>
+							<string>_2018_Vision-Res</string>
 						</array>
 					</dict>
 					<key>useLeadingZeros</key>
@@ -213,7 +225,7 @@
 				<key>ActionBundlePath</key>
 				<string>/System/Library/Automator/Rename Finder Items.action</string>
 				<key>ActionName</key>
-				<string>Rename Finder Items: Make Sequential</string>
+				<string>Rename Finder Items: Replace Text</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>caseIndicator</key>
@@ -227,13 +239,13 @@
 					<key>dateToUse</key>
 					<integer>0</integer>
 					<key>defaultName</key>
-					<string>nrxn3a_homo2_het6_sb</string>
+					<string>eml1v2</string>
 					<key>ignoreCase</key>
 					<false/>
 					<key>includeExtensions</key>
 					<integer>0</integer>
 					<key>insertionPosition</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>minimumCount</key>
 					<real>2</real>
 					<key>nameDateSeparator</key>
@@ -247,17 +259,17 @@
 					<key>renameItems</key>
 					<integer>1</integer>
 					<key>renameType</key>
-					<integer>3</integer>
+					<integer>4</integer>
 					<key>replaceWithText</key>
-					<string>Galvo2P</string>
+					<string></string>
 					<key>singleItemOption</key>
 					<integer>0</integer>
 					<key>startingNumber</key>
 					<real>1</real>
 					<key>textInput</key>
-					<string></string>
+					<string>-</string>
 					<key>textToFind</key>
-					<string>TwoPhoton</string>
+					<string>_2018_Vision-Res</string>
 					<key>useLeadingZeros</key>
 					<true/>
 				</dict>
@@ -596,7 +608,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:452.000000</string>
+				<string>309.000000:426.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -606,7 +618,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>D9B911BC-6CCE-4DB0-8432-F99D53A8CD53</key>
+		<key>9FB61415-D0AB-4F64-B50C-D29551C39E24</key>
 		<dict>
 			<key>from</key>
 			<string>DB053F0F-6D2C-4FDA-94F8-74FC38CE5FC9 - DB053F0F-6D2C-4FDA-94F8-74FC38CE5FC9</string>
