@@ -52,23 +52,30 @@
 				<dict>
 					<key>fileNames</key>
 					<array>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_A-tour-of-contemporary-color-vision-research.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_An-evaluation-of-different-measures-of-color-saturation.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Are-red--yellow--green--and-blue-perceptual-categories-.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Asymmetric-high-contrast-masking-in-S-cone-increment-and-de_2018_Vision-Rese.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Categorizing-natural-color-distributions.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Chromatic-summation-and-receptive-field-properties-of-blue-on-a_2018_Vision-.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Color-encoding-in-biologically-inspired-convolutional-neur_2018_Vision-Resea.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Color-weight-photometry.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Contour-adaptation-reduces-the-spreading-of-edge-induced-_2018_Vision-Resear.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Editorial-Board.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Editorial.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Links-between-global-and-local-shape-perception--coloured-back_2018_Vision-R.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Measurements-of-neuronal-color-tuning--Procedures--pitfalls_2018_Vision-Rese.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_Modeling-color-preference-using-color-space-metrics.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_The-role-of-nitric-oxide-in-spectral-information-processing-_2018_Vision-Res.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_The-role-of-temporal-contrast-and-blue-light-in-emmetropi_2018_Vision-Resear.pdf</string>
-						<string>~/Documents/Bibliography/01_TheSensesChapterBib/2018_VisResSpecialIssue_Color/2018_VisRes_The-spatial-structure-of-cone-opponent-receptive-fields-in-_2018_Vision-Rese.pdf</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_01.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_02.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_03.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_04.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_05.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_06.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_07.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_08.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_09.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_10.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_11.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_12.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_13.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_14.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_15.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_16.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_17.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_18.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_19.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_20.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_21.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_22.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_23.fsa</string>
+						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_24.fsa</string>
 					</array>
 				</dict>
 				<key>BundleIdentifier</key>
@@ -121,7 +128,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:239.000000</string>
+				<string>475.000000:239.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Get Specified Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -164,7 +171,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>eml1v2</string>
+							<string>20210407_CRtbx2aF1ox_09_</string>
 						</array>
 					</dict>
 					<key>ignoreCase</key>
@@ -190,7 +197,9 @@
 					<key>replaceWithText</key>
 					<dict>
 						<key>tokenizedValue</key>
-						<array/>
+						<array>
+							<string>20210719_</string>
+						</array>
 					</dict>
 					<key>singleItemOption</key>
 					<dict/>
@@ -207,7 +216,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>_2018_Vision-Res</string>
+							<string>2021-07-19-13-13-42_</string>
 						</array>
 					</dict>
 					<key>useLeadingZeros</key>
@@ -239,7 +248,7 @@
 					<key>dateToUse</key>
 					<integer>0</integer>
 					<key>defaultName</key>
-					<string>eml1v2</string>
+					<string>20210407_CRtbx2aF1ox_09_</string>
 					<key>ignoreCase</key>
 					<false/>
 					<key>includeExtensions</key>
@@ -255,13 +264,13 @@
 					<key>numberLocation</key>
 					<integer>0</integer>
 					<key>numberSeparator</key>
-					<integer>3</integer>
+					<integer>4</integer>
 					<key>renameItems</key>
 					<integer>1</integer>
 					<key>renameType</key>
 					<integer>4</integer>
 					<key>replaceWithText</key>
-					<string></string>
+					<string>20210719_</string>
 					<key>singleItemOption</key>
 					<integer>0</integer>
 					<key>startingNumber</key>
@@ -269,7 +278,7 @@
 					<key>textInput</key>
 					<string>-</string>
 					<key>textToFind</key>
-					<string>_2018_Vision-Res</string>
+					<string>2021-07-19-13-13-42_</string>
 					<key>useLeadingZeros</key>
 					<true/>
 				</dict>
@@ -608,7 +617,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.000000:426.000000</string>
+				<string>475.000000:426.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -618,7 +627,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>9FB61415-D0AB-4F64-B50C-D29551C39E24</key>
+		<key>A2309FE3-EA45-4BA3-97A6-C98A5D29A5EB</key>
 		<dict>
 			<key>from</key>
 			<string>DB053F0F-6D2C-4FDA-94F8-74FC38CE5FC9 - DB053F0F-6D2C-4FDA-94F8-74FC38CE5FC9</string>
