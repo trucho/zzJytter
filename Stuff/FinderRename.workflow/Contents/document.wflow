@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.42</string>
+	<string>492</string>
 	<key>AMApplicationVersion</key>
-	<string>2.9</string>
+	<string>2.10</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -51,32 +51,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>fileNames</key>
-					<array>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_01.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_02.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_03.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_04.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_05.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_06.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_07.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_08.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_09.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_10.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_11.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_12.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_13.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_14.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_15.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_16.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_17.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_18.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_19.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_20.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_21.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_22.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_23.fsa</string>
-						<string>~/Documents/LiMolec/zfGenotyping/20210719_tbx2F1s/tbx2b/2021-07-19-13-13-42_tbx2b_24.fsa</string>
-					</array>
+					<array/>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.SpecifiedFiles</string>
@@ -198,7 +173,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>20210719_</string>
+							<string>2e3_0</string>
 						</array>
 					</dict>
 					<key>singleItemOption</key>
@@ -216,7 +191,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>2021-07-19-13-13-42_</string>
+							<string>2e3_</string>
 						</array>
 					</dict>
 					<key>useLeadingZeros</key>
@@ -270,7 +245,7 @@
 					<key>renameType</key>
 					<integer>4</integer>
 					<key>replaceWithText</key>
-					<string>20210719_</string>
+					<string>2e3_0</string>
 					<key>singleItemOption</key>
 					<integer>0</integer>
 					<key>startingNumber</key>
@@ -278,7 +253,7 @@
 					<key>textInput</key>
 					<string>-</string>
 					<key>textToFind</key>
-					<string>2021-07-19-13-13-42_</string>
+					<string>2e3_</string>
 					<key>useLeadingZeros</key>
 					<true/>
 				</dict>
@@ -627,7 +602,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>A2309FE3-EA45-4BA3-97A6-C98A5D29A5EB</key>
+		<key>DE5A8991-93D7-4006-897E-35D26C9C0A7D</key>
 		<dict>
 			<key>from</key>
 			<string>DB053F0F-6D2C-4FDA-94F8-74FC38CE5FC9 - DB053F0F-6D2C-4FDA-94F8-74FC38CE5FC9</string>
